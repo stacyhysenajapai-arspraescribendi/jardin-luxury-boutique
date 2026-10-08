@@ -1,0 +1,9 @@
+[
+  { "id": "givenchy", "name": "Givenchy", "confirmed": true, "monogram": "G", "image": "brand-givenchy", "order": 1 },
+  { "id": "saint-laurent", "name": "Saint Laurent", "confirmed": true, "monogram": "SL", "image": "brand-saint-laurent", "order": 2 },
+  { "id": "dolce-gabbana", "name": "Dolce & Gabbana", "confirmed": true, "monogram": "D&G", "image": "brand-dolce-gabbana", "order": 3 },
+  { "id": "zimmermann", "name": "Zimmermann", "confirmed": true, "monogram": "Z", "image": "brand-zimmermann", "order": 4 },
+  { "id": "vivetta", "name": "Vivetta", "confirmed": true, "monogram": "V", "image": "brand-vivetta", "order": 5 },
+  { "id": "yves-salomon", "name": "Yves Salomon", "confirmed": true, "monogram": "YS", "image": "brand-yves-salomon", "order": 6 },
+  { "id": "valentino", "name": "Valentino", "confirmed": false, "monogram": "VA", "image": "brand-valentino", "order": 7 }
+]

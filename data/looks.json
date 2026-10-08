@@ -1,0 +1,38 @@
+[
+  {
+    "id": "l001",
+    "title": "Evening in Bllok",
+    "stylist": "JARDIN stylist",
+    "videoUrl": null,
+    "poster": "look-1",
+    "products": [{ "productId": "p009" }, { "productId": "p006" }, { "productId": "p011" }],
+    "placeholder": true
+  },
+  {
+    "id": "l002",
+    "title": "Riviera Weekend",
+    "stylist": "JARDIN stylist",
+    "videoUrl": null,
+    "poster": "look-2",
+    "products": [{ "productId": "p014" }, { "productId": "p017" }, { "productId": "p015" }],
+    "placeholder": true
+  },
+  {
+    "id": "l003",
+    "title": "Winter Tailoring",
+    "stylist": "JARDIN stylist",
+    "videoUrl": null,
+    "poster": "look-3",
+    "products": [{ "productId": "p021" }, { "productId": "p004" }, { "productId": "p002" }],
+    "placeholder": true
+  },
+  {
+    "id": "l004",
+    "title": "Parisian Chic",
+    "stylist": "JARDIN stylist",
+    "videoUrl": null,
+    "poster": "look-4",
+    "products": [{ "productId": "p007" }, { "productId": "p005" }, { "productId": "p027" }],
+    "placeholder": true
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "o-new-season",
+    "title": "The New Season",
+    "subtitle": "Autumn / Winter arrivals from Givenchy, Saint Laurent and more",
+    "style": "cream",
+    "badge": "NEW IN",
+    "validFrom": "2026-09-01",
+    "validTo": "2026-12-31",
+    "image": "hero-1",
+    "link": {},
+    "showInHero": true,
+    "placeholder": true
+  },
+  {
+    "id": "o-winter-sale",
+    "title": "Winter Sale",
+    "subtitle": "Selected pieces, in store and on request",
+    "style": "black",
+    "badge": "UP TO 70% OFF",
+    "validFrom": "2026-10-01",
+    "validTo": "2027-02-28",
+    "image": "hero-2",
+    "link": { "saleOnly": true },
+    "showInHero": true,
+    "placeholder": true
+  },
+  {
+    "id": "o-store-upgrade",
+    "title": "Store Upgrade",
+    "subtitle": "Our Bllok boutique is getting a new look. Final pieces from the previous season",
+    "style": "cream",
+    "badge": "FINAL PIECES",
+    "validFrom": "2026-10-01",
+    "validTo": "2026-11-30",
+    "image": "hero-3",
+    "link": { "saleOnly": true },
+    "showInHero": true,
+    "placeholder": true
+  },
+  {
+    "id": "o-valentines",
+    "title": "Valentine's Edit",
+    "subtitle": "Gifts in gold and red, wrapped in store",
+    "style": "black",
+    "badge": "GIFT EDIT",
+    "validFrom": "2027-02-01",
+    "validTo": "2027-02-14",
+    "image": "hero-2",
+    "link": { "category": "jewelry" },
+    "showInHero": false,
+    "placeholder": true
+  },
+  {
+    "id": "o-womens-day",
+    "title": "Women's Day",
+    "subtitle": "A special selection for 8 March",
+    "style": "cream",
+    "badge": "8 MARCH",
+    "validFrom": "2027-03-01",
+    "validTo": "2027-03-08",
+    "image": "hero-1",
+    "link": { "saleOnly": true },
+    "showInHero": false,
+    "placeholder": true
+  }
+]
